@@ -1,2 +1,2 @@
 # BroRC
-IRC for bros.
+Simple chatroom app for bros.
